@@ -1,3 +1,5 @@
+import Calculator from "./Calculator/Calculator";
+
 export const App = () => {
   return (
     <div
@@ -10,7 +12,7 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      React homework template
+    <Calculator/>
     </div>
   );
 };
