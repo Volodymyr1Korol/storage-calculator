@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Calculator.css';
+import './Calculator.styled.css';
 
 function Calculator() {
   const [storage, setStorage] = useState(0);
