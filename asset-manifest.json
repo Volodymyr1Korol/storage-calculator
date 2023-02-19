@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/storage-calculator/static/css/main.a520ebe1.css",
+    "main.js": "/storage-calculator/static/js/main.c9268b76.js",
+    "index.html": "/storage-calculator/index.html",
+    "main.a520ebe1.css.map": "/storage-calculator/static/css/main.a520ebe1.css.map",
+    "main.c9268b76.js.map": "/storage-calculator/static/js/main.c9268b76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a520ebe1.css",
+    "static/js/main.c9268b76.js"
+  ]
+}
